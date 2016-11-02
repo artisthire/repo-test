@@ -1,2 +1,2 @@
-print('Test')
-print('UniTest')
+print('Test;')
+print('UniTest;')
